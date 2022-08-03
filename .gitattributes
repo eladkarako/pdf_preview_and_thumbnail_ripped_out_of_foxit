@@ -1,0 +1,9 @@
+*.dll                     binary
+
+*.exe                     binary
+
+*.cmd                     text    eol=crlf
+
+*.reg                     text    eol=crlf
+
+*.md                              eol=crlf
